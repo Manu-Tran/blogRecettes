@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  website:
+    build: ./pelican
+    restart: always
+    entrypoint: ["pelican", "-r", "-l", "/site/content/", "-o", "/site/output", "-s", "/site/pelicanconf.py"]
+    volumes:
+      - ./pelican:/site
+      - ./recettes:/site/content
+    ports:
+      - 80:80
+      - 443
+      - 8000:8000
