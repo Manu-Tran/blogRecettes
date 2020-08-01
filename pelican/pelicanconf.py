@@ -51,6 +51,6 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # Plugins
-PLUGIN_PATHS = ['./plugins']
+PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['tipue_search']
 DIRECT_TEMPLATES = ['search']
