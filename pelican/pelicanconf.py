@@ -22,11 +22,13 @@ DEFAULT_LANG = 'fr'
 # Clean URL
 TAGS_URL = "tags"
 CATEGORIES_URL = "categories"
-ARCHIVES_URL = "archives"
+# ARCHIVES_URL = "archives"
 ARTICLE_URL = "{slug}"
 PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}.html"
 SEARCH_URL = "search"
+
+DIRECT_TEMPLATES = ["index", "tags", "categories", "archives", "search", "404"]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -53,4 +55,3 @@ DEFAULT_PAGINATION = 10
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['tipue_search']
-DIRECT_TEMPLATES = ['search']

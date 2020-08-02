@@ -12,3 +12,17 @@ services:
       - 80:80
       - 443
       - 8000:8000
+
+  webhook:
+    build: ./webhook-handler
+    restart: always
+    volumes:
+      - ./webhook-handler/app:/app
+      - ./:/meta
+    ports:
+      - 8001:8001
+    environment:
+      - FLASK_APP=main.py
+      - FLASK_DEBUG=1
+      - 'RUN=flask run --host=0.0.0.0 --port=8001'
+    command: flask run --host=0.0.0.0 --port=8001
