@@ -1,0 +1,12 @@
+* Inbox
+** DONE Site fonctionnel
+** DONE Favicon
+** DONE Environnement de dev Pelican
+** DONE Installer le thème
+** DONE Templates
+** TODO Basic Features de blog
+** TODO Github Webhook
+** TODO Conf Ngninx
+** TODO Déployer sur serveur de benjamin
+** TODO Entrée DNS
+** TODO Faire la promo
