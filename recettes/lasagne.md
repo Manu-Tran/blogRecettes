@@ -12,6 +12,7 @@ Un plat basique à base de pâtes et de viande, au four, fat
 
 ## Ingrédients
 > Pour 8 personnes.
+
 - Un paquet de lasagnes (pas besoin d'un paquet entier tho)
 - Fromage râpé
 - Pour la bolo
