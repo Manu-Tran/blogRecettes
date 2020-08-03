@@ -4,8 +4,8 @@ FROM vorakl/alpine-pelican
 # Ajout du site
 ADD . /site
 
-# Installation du thème Elegant
-RUN pelican-themes -i /site/pelican-themes/elegant
+# Patch du thème
+RUN cp -f /site/custom-templates/* /site/pelican-themes/elegant/templates/
 
 # On expose les ports
 EXPOSE 8000

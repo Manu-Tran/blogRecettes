@@ -13,7 +13,7 @@ EXTRA_PATH_METADATA = {
 AUTHOR = 'CGNan'
 SITENAME = 'Blog de Recette du CGNan'
 SITEURL = ''
-THEME = 'elegant'
+THEME = 'pelican-themes/elegant'
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
