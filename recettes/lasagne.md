@@ -3,7 +3,7 @@ Category: Plat
 Tags: viande
 Date: 2020-08-02
 
-Un plat à base de porc mijotant dans du caramel et de l'anis !
+Un plat basique à base de pate et de viande
 
 - *Préparation* : 10 minutes.
 - *Cuisson* : 10 minutes.
