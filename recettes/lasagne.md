@@ -1,38 +1,83 @@
-Title: Lasagne
+Title: Lasagnes
 Category: Plat
-Tags: viande
+Tags: Pates, viande
 Date: 2020-08-02
-Modified: 2020-08-02
-Authors: Manu
+Modified: 2020-08-03
+Authors: Delmas
 
-Un plat basique à base de pate et de viande
+Un plat basique à base de pâtes et de viande, au four, fat
 
 - *Préparation* : 10 minutes.
-- *Cuisson* : 10 minutes.
+- *Cuisson* : 30min+ pour la bolo, 30 minutes au four.
 
 ## Ingrédients
-> Pour 10 personnes.
+> Pour 8 personnes.
+- Un paquet de lasagnes (pas besoin d'un paquet entier tho)
+- Fromage râpé
+- Pour la bolo
+  - 800g de viande
+  - 3 carottes
+  - 2 branches de céleri
+  - 4 oignons
+  - 4 gousses d'aïl
+  - 2 grosses boites de tomates
+  - 2-3 petites boites (CàS) de concentré de tomates
+  - Vin blanc (2 petits verres)
+  - Bouillon
+  - Basilic, Origan
+  - Optionnel :
+    - Un trait de vinaigre balsamique ou de sauce soja
+    - Un peu de piment
 
-- Pour le template
-  - 10s de mon temps
-  - 3 tasses de café
-  - une dizaine de recherche google
-
-  > On préfèrera duckduckgo en règle générale
+- Pour la béchamel
+  - 100g+ de beurre doux
+  - Autant de farine
+  - Lait
+  - Muscade (optionnel if morfale == Seigneur)
 
 ## Préparation
 
-  1. Allumer son ordinateur
+- Pour la bolo.
 
-  2. Boire son *café*
+  1. Faire dorer la viande dans une grande marmitte avec un fond d'huile, quand elle a une belle croute dorée, retirer de la marmitte.
+  > Aparté viande bolo : Si vous partez sur de la viande hachée, le feu c'est 1/3 boeuf, 1/3 porc, 1/3 veau.
+  > Mettre toute la viande hachée d'un coup, l'eau va sortir et commencer à s'évaporer, après quelques minutes, le son va passer d'un pssht à un fritchi, signe que l'eau et evaporée et commence à dorer. Faire gaffe à ce moment là et bien dorer la viande.
+  > On peut faire de la bolo au paleron aussi (viande à Bourguignon), coupé finement, c'est moins sec et bien meilleur.
 
-    Attention à ne pas se bruler
+  2. Le fond de la marmitte devrait être bien brun.
+  Ajouter d'un coup céleri, oignon et carottes dans la marmitte, hachés finement, avec un peu d'huile si besoin.
 
-  3. Eteindre son ordinateur
+  3. Une fois les légumes translucides/ramollis, ajouter l'aïl pour une minute (attention, ça brûle vite)
 
-## Photo
+  4. Ajouter le concentré de tomates, faire cuire quelques minutes, puis le vin blanc, frotter pour dissoudre le brun du fond de casserole dans le liquide.
 
-[![template.jpeg]({static}images/template.jpeg){width=65%}]({static}images/template.jpeg)
+  5. Ajouter les tomates (les écraser à la main ou dans la marmitte), le bouillon, le balsamique/soja, le piment et les herbes (si elles sont sèches)
+
+  6. Laisser mijoter longtemps, une demie heure/une heure facile, plus c'est long, meilleur c'est.
+
+  7. Gouter pour ajuster sel/poivre/herbes (si herbes fraiches, les mettre apres mijotage)
+
+-Pour la béchamel
+  1. Faire fondre le beurre dans une casserole, jusqu'à ce qu'il mousse.
+
+  2. Ajouter la farine, bien mélanger et laisser cuire la pate quelques minutes.
+
+  3. Ajouter le lait, peu à peu. Une fois que vous avez la quantité de sauce désirée, laissez cuire pour épaissir.
+  4. Ajuster Sel/poivre/Muscade
+
+> Pour des lasagnes, c'est ptet mieux d'avoir une béchamel un peu liquide
+
+- Assemblage
+Dans un grand plat qui va au four :
+ 1. Bolo (fine couche pour pas accrocher)
+  2. Lasagne
+  3. Bolo
+  4. Béchamel
+  5. Lasagne, Bolo, Bécha, lasagne....
+  6. Dernière couche : Lasagnes, béchamel, fromage (recouvrir pour pas que les pates ne crament au four)
+  7. Cuire 20-30min à 190°C
+  8. Servir avec une feuille de salade pour le karma
+
 
 ## Remarques
-  - Faire gaffe à la syntaxe Markdown qui peut être relou de temps à autre. Dans le doute, ajouter des sauts de lignes corrige 90% des problèmes.
+  La bolo peut se faire en masse et à l'avance, si vous en avez de la congelée, la recette prend une grosse demie-heure top.
