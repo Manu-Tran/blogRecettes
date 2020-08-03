@@ -4,10 +4,10 @@ from __future__ import unicode_literals
 
 STATIC_PATHS = [
     'extra',
-    'recettes/images',
+    'images',
 ]
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
+    'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
 AUTHOR = 'CGNan'

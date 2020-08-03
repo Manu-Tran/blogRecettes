@@ -21,3 +21,5 @@ echo 'recettes' >> .git/info/sparse-checkout
 
 ## Download with pull, not clone
 git pull origin master
+
+git reset --hard
