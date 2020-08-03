@@ -18,7 +18,7 @@ services:
     restart: always
     volumes:
       - ./webhook-handler/app:/app
-      - ./:/meta
+      - ./recettes:/meta/recettes
     ports:
       - 8001:8001
     environment:
