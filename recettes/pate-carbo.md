@@ -38,6 +38,7 @@ Une version francisée des spaghetti alla carbonara (Si vous faites celles-là �
    > Big Barilla vous dit de mettre les pâtes dans beaucoup beaucoup d'eau, ne les écoutez pas !
 
   6. Quand les oignons sont translucides, remettre les lardons, ajoutter la crème, et faire cuire légèrement
+  > Dans la version vin blanc, ajouter un glug avant de mettre la crème, et faire dissoudre les sucs des lardons dedans
 
   7. Quand les pâtes sont au 3/4 cuites, les rajoutter dans la poêle sans trop les égoutter
   >  Astuce qui marche à chaque fois que vous faites des pâtes : finir la cuisson dans la sauce, rajouter de l'eau de cuisson et remuer. Le fait de remuer + l'amidon de l'eau va donner une texture super crémeuse à la sauce, qui va aussi mieux adhérer aux pâtes
