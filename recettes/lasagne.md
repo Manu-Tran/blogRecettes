@@ -2,6 +2,8 @@ Title: Lasagne
 Category: Plat
 Tags: viande
 Date: 2020-08-02
+Modified: 2020-08-02
+Authors: Manu
 
 Un plat basique à base de pate et de viande
 

@@ -1,7 +1,10 @@
 Title: Pâtes Carbo
 Category: Plat
 Tags: Pates, porc, classique, Seigneurproof
-Date: 2020-08-03
+Date: 2020-08-02
+Modified: 2020-08-03
+Authors: Delmas
+
 
 Une version francisée des spaghetti alla carbonara (Si vous faites celles-là à un italien sans qu'il fasse une attaque, chapeau)
 

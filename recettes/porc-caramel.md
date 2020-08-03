@@ -2,6 +2,8 @@ Title: Porc au Caramel
 Category: Plat
 Tags: viande, porc, asiatique
 Date: 2020-08-02
+Modified: 2020-08-02
+Authors: Manu
 
 Un plat à base de porc mijotant dans du caramel et de l'anis !
 
