@@ -10,6 +10,9 @@ ADD pelican-themes .
 # Installation du thème Elegant
 RUN pelican-themes -i /themes/elegant
 
+# Ajout du site
+ADD . /site
+
 # On expose les ports
 EXPOSE 8000
 EXPOSE 80

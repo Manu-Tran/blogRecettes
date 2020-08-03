@@ -6,17 +6,27 @@ services:
     restart: always
     entrypoint: ["pelican", "-r", "-l", "/site/content/", "-o", "/site/output", "-s", "/site/pelicanconf.py"]
     volumes:
-      - ./pelican:/site
-      - ./recettes:/site/content
-    ports:
-      - 80:80
-      - 443
+      - recettes:/site/content
+    depends_on:
+      - webhook
 
   webhook:
     build: ./webhook-handler
     restart: always
     volumes:
       - ./webhook-handler/app:/app
-      - ./recettes:/app/content
+      - recettes:/meta/recettes
     ports:
-      - 80:80
+      - 8001:8001
+    environment:
+      - FLASK_APP=main.py
+      - 'RUN=flask run --host=0.0.0.0 --port=8001'
+    command: flask run --host=0.0.0.0 --port=8001
+
+volumes:
+    recettes:
+
+networks:
+  default:
+    external:
+      name: nextcloud_docker_proxy-tier
