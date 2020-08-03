@@ -8,6 +8,10 @@ services:
     volumes:
       - ./pelican:/site
       - ./recettes:/site/content
+    depends_on:
+      - webhook
+    ports:
+      - 80:8000
 
   webhook:
     build: ./webhook-handler
@@ -21,8 +25,3 @@ services:
       - FLASK_APP=main.py
       - 'RUN=flask run --host=0.0.0.0 --port=8001'
     command: flask run --host=0.0.0.0 --port=8001
-
-networks:
-  default:
-    external:
-      name: nextcloud_docker_proxy-tier

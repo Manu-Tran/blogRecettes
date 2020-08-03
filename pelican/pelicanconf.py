@@ -3,11 +3,11 @@
 from __future__ import unicode_literals
 
 STATIC_PATHS = [
-    'img',
+    'extra',
     'recettes/images',
 ]
 EXTRA_PATH_METADATA = {
-    'img/favicon.ico': {'path': 'favicon.ico'},  # and this
+    'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
 }
 
 AUTHOR = 'CGNan'
