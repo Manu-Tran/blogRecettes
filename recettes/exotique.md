@@ -3,7 +3,7 @@ Category: Template
 Tags: template, troll, test
 Date: 2020-08-03
 Modified: 2020-08-03
-Author: Delmas
+Authors: Delmas
 Summary: La recette parfaite à faire avant un état des lieux
 
 Très simple, et tout le monde vous demandera quelle est ce fûmet dans votre cuisine !
