@@ -31,28 +31,28 @@ Un plat à base de porc mijotant dans du caramel et de l'anis !
 
   Pour le caramel :
     
-      1. Mettre le sucre dans une casserole bien propre à feu moyen
+   1. Mettre le sucre dans une casserole bien propre à feu moyen
       
-      2. Quand le sucre a déjà bien fondu, commencer à remuer et préparer un verre d'eau
+   2. Quand le sucre a déjà bien fondu, commencer à remuer et préparer un verre d'eau
         
-          > Attention, il est facile de laisse bruler son caramel et rendre sa casserole inutilisable
+   > Attention, il est facile de laisse bruler son caramel et rendre sa casserole inutilisable
           
-      3. Quand le caramel atteint une teinte bien foncée, baisser le feu et ajouter le verre d'eau **en plusieurs fois**, en prenant bien le temps de touiller entre chaque ajout d'eau
-      Le but est d'arreter la cuisson du caramel sans le solidifier. 
+   3. Quand le caramel atteint une teinte bien foncée, baisser le feu et ajouter le verre d'eau **en plusieurs fois**, en prenant bien le temps de touiller entre chaque ajout d'eau
+   Le but est d'arreter la cuisson du caramel sans le solidifier. 
       
-        > Le timing de sortie du caramel est décisif pour la réussite du plat. Si vous le voulez plus sucré, il faudra sortir le caramel dès qu'il commence à bruler (que la fumée commence à piquer les yeux). Pour avoir un caramel moins sucré avec un gout plus prononcé, laisser brunir un peu plus le caramel. 
+   > Le timing de sortie du caramel est décisif pour la réussite du plat. Si vous le voulez plus sucré, il faudra sortir le caramel dès qu'il commence à bruler (que la fumée commence à piquer les yeux). Pour avoir un caramel moins sucré avec un gout plus prononcé, laisser brunir un peu plus le caramel. 
         
  Pour le Porc au Caramel :
  
-      1. Dans une grosse casserole (ou cocotte), faire saisir la viande dans un fond d'huile.
+   1. Dans une grosse casserole (ou cocotte), faire saisir la viande dans un fond d'huile.
       
-      2. Quand la viande n'est plus rose (~5/10 minutes), ajouter caramel, sel, poivre, nuoc mam, oignons, ail, anis. 
+   2. Quand la viande n'est plus rose (~5/10 minutes), ajouter caramel, sel, poivre, nuoc mam, oignons, ail, anis. 
       
-      3. Complétez avec de l'eau jusqu'à recouvrir la viande.
+   3. Complétez avec de l'eau jusqu'à recouvrir la viande.
   
-      4. Laisser mijoter pendant 30/40 minutes.
+   4. Laisser mijoter pendant 30/40 minutes.
       
-      5. Servir avec du riz et des légumes dans du vinaigre ou du citron (chou, carottes rapées, ...).
+   5. Servir avec du riz et des légumes dans du vinaigre ou du citron (chou, carottes rapées, ...).
         
 ## Remarques
   Ce plat est meilleur le lendemain !
