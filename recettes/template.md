@@ -2,7 +2,10 @@ Title: Template
 Category: Template
 Tags: template, rien
 Date: 2020-08-01
+Modified: 2020-08-03
+Authors: Manu
 Summary: Un bon template pour les futures glorieuses recettes !
+
 
 Un bon template pour montrer les bases du markdown !
 
