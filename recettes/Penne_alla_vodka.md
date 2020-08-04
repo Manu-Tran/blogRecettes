@@ -31,7 +31,7 @@ Ok, j'avoue que ça crie "Alcoolique", mais je vous jure c'est mortel
 
   3. Ajouter la vodka, frotter pour dissoudre les sucs (Attention, ca peut prendre feu), et laisser réduire jusqu'à presque sec
 
-  4. Ajouter le piment, les tomates et les écraser (perso je le fais à la main au desus sde la poêle) et laisser mijoter jusqu'à ce que ça soit bien épaissit (au moins une demie heure/une heure)
+  4. Ajouter le piment, les tomates et les écraser (perso je le fais à la main au dessus de la poêle) et laisser mijoter jusqu'à ce que ça se soit bien épaissit (au moins une demie heure/une heure)
 
   5. Quand la sauce tomate est assez épaisse (on voit le fond de la poêle quand vous touillez), ajouter la crème et laisser mijoter
   
