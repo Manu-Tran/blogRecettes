@@ -22,13 +22,21 @@ DEFAULT_LANG = 'fr'
 # Clean URL
 TAGS_URL = "tags"
 CATEGORIES_URL = "categories"
-# ARCHIVES_URL = "archives"
+ARCHIVES_URL = "archives"
 ARTICLE_URL = "{slug}"
 PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}.html"
 SEARCH_URL = "search"
 
-DIRECT_TEMPLATES = ["index", "tags", "categories", "archives", "search", "404"]
+DIRECT_TEMPLATES = ["index", "tags", "categories", "archives", "search", "404", "authors"]
+MARKDOWN = {'extension_configs': {
+            'markdown.extensions.codehilite': {'css_class': 'highlight'},
+            'markdown.extensions.extra': {},
+            'markdown.extensions.meta': {},
+            'markdown.extensions.sane_lists': {},
+            },
+            'output_format': 'html5',
+        }
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

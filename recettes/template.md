@@ -22,6 +22,13 @@ Un bon template pour montrer les bases du markdown !
 
   > On préfèrera duckduckgo en règle générale
 
+## Ingrédients (Alt)
+
+  Pour 1 Template    | Pour 1 tasse de café
+  -------------      | -------------
+  Temps              | 2 cas de Café en poudre
+  Internet           | Eau
+
 ## Préparation
 
   1. Allumer son ordinateur
