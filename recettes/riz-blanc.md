@@ -1,5 +1,5 @@
 Title: Riz thaï
-Category: Plat
+Category: Accompagnement
 Tags: classique, asiatique
 Date: 2020-08-06
 Modified: 2020-08-06
@@ -45,5 +45,5 @@ Au ricecooker :
  4. Servir le riz.
         
 ## Remarques
-    - Cette recette marche pour des quantités de riz non industriel ( < 6 personnes ). Au delà, faut ajouter plus d'eau que défini au dessus.
+- Cette recette marche pour des quantités de riz non industriel ( < 6 personnes ). Au delà, faut ajouter plus d'eau que défini au dessus.
 
