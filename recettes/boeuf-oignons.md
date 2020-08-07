@@ -1,5 +1,5 @@
 Title: Boeuf sauté aux oignons
-Category: Boeuf sauté aux oignons
+Category: Plat
 Tags: boeuf, asiatique
 Date: 2020-08-06
 Modified: 2020-08-06
@@ -34,7 +34,7 @@ Boeuf sauté aux oignons et au nuoc mam. Un classique très simple pour les jour
   
   4. Quand les oignons ont la consitance que vous souhaitez (dans le doute, faites les bien cuire, ils seront meilleurs), ajouter la viande et bien remuer
 
-  5. Quand la viande commence à se colorer, corriger le gout avec du poivre et du nuoc mam (c'est à ce moment qu'il faut constemment gouter pour éviter de mettre trop de nuoc mam. Selon vos gouts, ça varira entre 3 et 7 cas de nuoc mam supplémentaires).
+  5. Quand la viande commence à se colorer, corriger le gout avec du poivre et du nuoc mam (c'est à ce moment qu'il faut constamment gouter pour éviter de mettre trop de nuoc mam. Selon vos gouts, ça varira entre 3 et 7 cas de nuoc mam supplémentaires).
 
   6. Couvrir et laisser à feu doux pendant 10 minutes.
   
