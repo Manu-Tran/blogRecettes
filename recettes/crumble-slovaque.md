@@ -11,6 +11,7 @@ Authors: Manu
 ## Ingrédients
 
 Brioche (2 fois trop):
+
    - Levain (+ cas de sucre)
    - 800ml de lait à temp ambiante (pour levain)
    - 900g de farine 
@@ -20,6 +21,7 @@ Brioche (2 fois trop):
    - 2 oeufs
 
 Crumble (Pour 8 personnes):
+
    - 100g farine
    - 100g sucre
    - 100g beurre
