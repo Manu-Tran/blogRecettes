@@ -97,7 +97,11 @@
       <div class="authors_count">
         {% for author,articles in authors %}
         {% set num = articles|count %}
+        {% if num > 1 %}
         <li>{{ author }} : {{ num }} articles
+        {% else %}
+        <li>{{ author }} : {{ num }} article
+        {% endif %}
           {% endfor %}
       </div>
     </section>
