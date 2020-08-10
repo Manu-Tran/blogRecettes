@@ -2,7 +2,7 @@
 FROM vorakl/alpine-pelican
 
 # Ajout du site
-ADD . /site
+COPY . /site
 
 # Patch du thème
 RUN cp -f /site/custom-templates/* /site/pelican-themes/elegant/templates/
