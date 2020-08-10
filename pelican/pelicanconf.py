@@ -11,7 +11,7 @@ EXTRA_PATH_METADATA = {
 }
 
 AUTHOR = 'CGNan'
-SITENAME = 'Blog de Recette du CGNan'
+SITENAME = 'Blog de Recettes du CGNan'
 SITEURL = ''
 THEME = 'pelican-themes/elegant'
 PATH = 'content'
