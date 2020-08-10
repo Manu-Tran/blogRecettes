@@ -22,6 +22,7 @@ def on_push(data):
     print("Got push with: {0}".format(data))
     o.fetch()
     gitRepo.git.reset("--hard origin/master")
+    gitRepo.git.clean("-f")
     print("Git repo updated !")
     return "Git repo updated !"
 
