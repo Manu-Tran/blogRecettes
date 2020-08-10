@@ -12,7 +12,7 @@ gitRepo.heads.master.checkout()
 
 @app.route("/")         # Standard Flask endpoint
 def on_get():
-    o.pull()
+    o.fetch()
     print("Git repo updated !")
     return "Git repo updated !"
 
@@ -20,7 +20,8 @@ def on_get():
 @webhook.hook()         # Defines a handler for the 'push' event
 def on_push(data):
     print("Got push with: {0}".format(data))
-    o.pull()
+    o.fetch()
+    gitRepo.git.reset("--hard")
     print("Git repo updated !")
     return "Git repo updated !"
 
