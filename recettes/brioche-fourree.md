@@ -14,24 +14,15 @@ Authors: Manu
 
 Brioche (2 fois trop):
 
-  - Levure (+ cas de sucre)
-    
+  - Levure (+ cas de sucre)    
   - 800ml de lait à temp ambiante (pour levain)
-    
-  - 900g de farine 
-  
+  - 900g de farine
   - un peu plus de 150g de beurre
-  
   - 4 càs de sucre
-  
   - une pincée de sel
-  
   - 2 oeufs (+ un jaune d'oeuf)
-  
   - cacao en poudre 
-  
   - (ou confiture pour les petites brioches)
-  
   - sucre
 
 ## Préparation
