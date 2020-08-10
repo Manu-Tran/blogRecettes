@@ -12,6 +12,7 @@ Le classique guacamole pour l'apéro, très frais et qui part toujours très vit
 
 ## Ingrédients
 > Pour 6 personnes.
+
 - 3 avocats assez mûrs
 - 1/2 oignon
 - 1-2 tomates
