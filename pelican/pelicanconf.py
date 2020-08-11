@@ -28,7 +28,7 @@ PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}.html"
 SEARCH_URL = "search"
 
-DIRECT_TEMPLATES = ["index", "tags", "categories", "archives", "search", "404", "authors"]
+DIRECT_TEMPLATES = ["index", "tags", "categories", "archives", "search", '404', "authors"]
 MARKDOWN = {'extension_configs': {
             'markdown.extensions.codehilite': {'css_class': 'highlight'},
             'markdown.extensions.extra': {},
@@ -44,6 +44,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+HOSTED_ON = {
+        "url" : "https://github.com/Manu-Tran/blogRecettes",
+        "name" : "Github"
+        }
+
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
