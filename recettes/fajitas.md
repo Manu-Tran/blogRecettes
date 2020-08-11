@@ -7,8 +7,8 @@ Authors: Delmas
 Peut être potentiellement galère en terme de temps, mais se parallèlise bien
 
 
-- *Préparation* : 5 minutes.
-- *Cuisson* : 40 minutes dont 30min pour la sauce tomate.
+- *Préparation* : 30 bonnes minutes.
+- *Cuisson* : 30min pour la sauce tomate, 10min pour le poulet, 10-15min pour toutes les tortillas.
 
 ## Ingrédients
 > Pour 4 personnes.
@@ -97,7 +97,7 @@ Cuisson des tortillas
   
   17. Faire chauffer une poêle à sec, super super chaud
   
-  18. rouler les boules en tortillas assez fines, et les jeter sur la poêle brûlante
+  18. Etaler les tortillas en disques sur un plan légèrement fariné, d'abord avec la main, puis avec un rouleau fariné, et les jeter sur la poêle brûlante
   
   19. Quand ya des bulles et du doré/noir qui apparaissent, retourner et cuire pareil de l'autre côté
   
