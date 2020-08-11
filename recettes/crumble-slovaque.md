@@ -3,7 +3,7 @@ Category: Dessert
 Tags: sucré, fruit
 Date: 2020-08-10
 Modified: 2020-08-10
-Authors: Manu
+Authors: Milo, Manu
 
 - *Préparation* : 20 minutes.
 - *Cuisson* : 30 minutes.
