@@ -3,7 +3,7 @@ Category: Dessert
 Tags: sucré
 Date: 2020-08-10
 Modified: 2020-08-10
-Authors: Manu
+Authors: Milo, Manu
 
 - *Préparation* : TBD minutes.
 - *Cuisson* : 20 minutes.
