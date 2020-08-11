@@ -14,6 +14,7 @@ Peut être potentiellement galère en terme de temps, mais se parallèlise bien
 > Pour 4 personnes.
 
 Tortillas (16 petites)
+
   - 350g de farine
   - 1 càc de sel
   - 1 sachet (6-7g) de levure chimique
@@ -21,6 +22,7 @@ Tortillas (16 petites)
   - 200mL d'eau tiède
   
 Salsa
+
   - Huile d'olive
   - 1 boite de tomates (ou tomates fraiches épluchées)
   - 1 piment coupé en tranches
@@ -33,6 +35,7 @@ Salsa
   - Sucre et jus de citron vert (optionnel)
   
 Remplissage
+
   - Filet de poulet (500g) coupé en lamelles
   - 1 oignon en lamelles
   - 1 fat càc de cumin
@@ -41,6 +44,7 @@ Remplissage
   - bouillon de volaille (ou eau si c'est la dèche)
   
 Sauces en plus
+
   - Guac (cf autre recette)
   - Yaourt nature
   
