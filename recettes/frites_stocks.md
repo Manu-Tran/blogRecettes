@@ -13,7 +13,7 @@ La frite STOCKS, grosse, grasse, croustillante et fondante
 - *Repos*: 30 minutes.
 
 ## Ingrédients
-> Pour 1 personne
+> Pour 1 STOCKSman / 2 personnes normales
 
   - 500g de pommes de terre, de la bintje si possible.
   - Quelques litres d'huile de friture.
