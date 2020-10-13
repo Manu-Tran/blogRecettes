@@ -52,7 +52,7 @@ Un plat basique à base de pâtes et de viande, au four, fat
 
   4. Ajouter le concentré de tomates, faire cuire quelques minutes, puis le vin blanc, frotter pour dissoudre le brun du fond de casserole dans le liquide.
 
-  5. Ajouter les tomates (les écraser à la main ou dans la marmitte), le bouillon, le balsamique/soja, le piment et les herbes (si elles sont sèches)
+  5. Ajouter les tomates (les écraser à la main ou dans la marmitte), le bouillon, la viande, le balsamique/soja, le piment et les herbes (si elles sont sèches)
 
   6. Laisser mijoter longtemps, une demie heure/une heure facile, plus c'est long, meilleur c'est.
 
