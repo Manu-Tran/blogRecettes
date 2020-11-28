@@ -16,15 +16,14 @@ Un plat basique à base de pâtes et de viande, au four, fat
 - Un paquet de lasagnes (pas besoin d'un paquet entier tho)
 - Fromage râpé
 - Pour la bolo
-  - 800g de viande
+  - 1kg de viande
   - 3 carottes
   - 2 branches de céleri
-  - 4 oignons
-  - 4 gousses d'aïl
-  - 2 grosses boites de tomates
+  - 2-3 oignons
+  - 3 gousses d'aïl
   - 2-3 petites boites (CàS) de concentré de tomates
-  - Vin blanc (2 petits verres)
-  - Bouillon
+  - Vin blanc (2 verres)
+  - Bouillon (1L ish)
   - Basilic, Origan
   - Optionnel :
     - Un trait de vinaigre balsamique ou de sauce soja
@@ -44,6 +43,7 @@ Un plat basique à base de pâtes et de viande, au four, fat
   > Aparté viande bolo : Si vous partez sur de la viande hachée, le feu c'est 1/3 boeuf, 1/3 porc, 1/3 veau.
   > Mettre toute la viande hachée d'un coup, l'eau va sortir et commencer à s'évaporer, après quelques minutes, le son va passer d'un pssht à un fritchi, signe que l'eau et evaporée et commence à dorer. Faire gaffe à ce moment là et bien dorer la viande.
   > On peut faire de la bolo au paleron aussi (viande à Bourguignon), coupé finement, c'est moins sec et bien meilleur.
+  > Pro tip : si vous voulez manger moins de viande, 50-50 viande hachée/lentilles, c'est invisible et c'est mieux pour la planète
 
   2. Le fond de la marmitte devrait être bien brun.
   Ajouter d'un coup céleri, oignon et carottes dans la marmitte, hachés finement, avec un peu d'huile si besoin.
@@ -52,9 +52,9 @@ Un plat basique à base de pâtes et de viande, au four, fat
 
   4. Ajouter le concentré de tomates, faire cuire quelques minutes, puis le vin blanc, frotter pour dissoudre le brun du fond de casserole dans le liquide.
 
-  5. Ajouter les tomates (les écraser à la main ou dans la marmitte), le bouillon, la viande, le balsamique/soja, le piment et les herbes (si elles sont sèches)
+  5. Ajouter le bouillon, la viande, le balsamique/soja, le piment et les herbes (si elles sont sèches)
 
-  6. Laisser mijoter longtemps, une demie heure/une heure facile, plus c'est long, meilleur c'est.
+  6. Laisser mijoter longtemps, une heure et demie / deux heures, plus c'est long, meilleur c'est, même si un peu moins ça passe aussi.
 
   7. Gouter pour ajuster sel/poivre/herbes (si herbes fraiches, les mettre apres mijotage)
 
