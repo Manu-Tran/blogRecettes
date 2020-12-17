@@ -7,7 +7,7 @@ Authors: Delmas
 Authentique-ish ? Pour être honnête, je sais pas trop, mais il est bon en tout cas
 
 
-- *Préparation* : 5 minutes.
+- *Préparation* : 15-20 minutes.
 - *Cuisson* : 1h30-2h.
 
 ## Ingrédients
