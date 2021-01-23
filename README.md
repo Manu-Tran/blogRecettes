@@ -22,7 +22,7 @@ Pour modifier, c'est presque identique. Il suffit de cliquer sur la recette à m
 
 ### La méthode un peu moins simple
 
-Pour cette méthode, les modifications sont locales (utilisant l'éditeur de votre choix). Un fois que vous avez tapé la recette en locale et mis dans le bon fichier du repo (`blogRecettes/recettes/`), vous pouvez lancer le script prévu à cet effet : depuis le root du repo `./sendRecipes`.
+Pour cette méthode, les modifications sont locales (utilisant l'éditeur de votre choix). Un fois que vous avez tapé la recette en locale et mis dans le bon fichier du repo (`blogRecettes/recettes/`), vous pouvez lancer le script prévu à cet effet : depuis le root du repo `./sendRecipes.sh`.
 Normalement, le chagement devrait opérer dans la minute.
 
 ### La méthode pas simple
