@@ -14,7 +14,7 @@ Pour pouvoir avoir les accès, soit me contacter directement (si vous comptez co
 ### La méthode simple
 
 La méthode simple consiste à passer par l'interface github. 
-Sur la [https://github.com/Manu-Tran/blogRecettes](page) principale du repo, utiliser le "Add File" puis l'option adéquate.
+Sur la [page principale du repo](https://github.com/Manu-Tran/blogRecettes), utiliser le "Add File" puis l'option adéquate.
 Pour le nom du fichier, bien vérifier que le nom du fichier contient bien le chemin vers les recettes (Vérifier que le nom de la recette ajoutée commence bien par `recettes/`).
 Ensuite, après avoir mis un nom de commit, il suffit de cliquer sur le gros bouton vert.
 
@@ -27,4 +27,4 @@ Normalement, le chagement devrait opérer dans la minute.
 
 ### La méthode pas simple
 
-Utiliser l'outil `git` comme un grand. Voir [https://git-scm.com/docs/gittutorial](tutoriel).
+Utiliser l'outil `git` comme un grand. Voir [tutoriel](https://git-scm.com/docs/gittutorial).
