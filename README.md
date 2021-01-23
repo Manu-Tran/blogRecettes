@@ -4,7 +4,7 @@ Ce dépôt a pour but d'accueillir les recettes des différents membres du CGNan
 
 ## Comment ça marche ?
 
-En cas de changements, le site pull le repo et se met automatiquement à jour. Cela se fait par un wabhook et un service dédié à ce méchanisme.
+En cas de changements, le site pull le repo et se met automatiquement à jour. Cela se fait par un webhook et un service dédié à ce méchanisme.
 Les recettes dans le format markdown sont ensuite parsés et mis en page via des templates HTML, puis mis à dispositioon par le serveur. Ce mécanisme est rendu possible par le framework Pélican.
 
 ## Comment ajouter ma recette ?
