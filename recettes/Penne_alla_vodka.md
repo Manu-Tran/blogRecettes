@@ -17,7 +17,7 @@ Ok, j'avoue que ça crie "Alcoolique", mais je vous jure c'est mortel
   - 3 gousses d'aïl, coupées en fines tranches
   - 2 shots de vodka
   - 125 mL de crème
-  - 1 boite de tomates
+  - 1 boite de tomates (800g total, 480g égoutté ish)
   - Une poignée de basilic frais
   - Un peu de piment (optionnel)
   - 3 noix de beurre
