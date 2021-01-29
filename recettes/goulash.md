@@ -39,7 +39,7 @@ Authentique-ish ? Pour être honnête, je sais pas trop, mais il est bon en tout
   
   5. Ajouter une ou deux grosses louches de bouillon dans la marmitte, et frotter pour dissoudre les sucs dans le liquide
   
-  6. Ajouter les herbes, l'aïl, le concentré, le reste du bouillon et le balsamique
+  6. Remettre ce que vous avez réservé (viande oignons). Ajouter les herbes, l'aïl, le concentré, le reste du bouillon et le balsamique
   
   7. Ajouter le poivre, pas hésiter à être généreux, et le sel
   > Gaffe au sel, le bouillon en cube est souvent super sâlé, goûter avant 
