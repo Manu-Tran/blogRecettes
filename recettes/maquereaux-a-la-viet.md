@@ -34,7 +34,7 @@ Pour la préparation de nuoc mam:
   
   3. Ajuster le gout selon vos préférences. Il ne faut pas avoir peur de gouter.
 
-Pour le maquereaux: 
+Pour les maquereaux: 
 
   1. Faire chauffer un fond d'huile dans une grande poêle (il faut qu'il y en ait à peine assez pour recouvrir le fond) avec 2 gousses d'ail coupées en tranche
 
