@@ -1,7 +1,7 @@
 Title: Korean Fried Chicken
 Category: Plat
 Tags: Friture, poulet, pimenté
-Date: 2020-08-07
+Date: 2021-03-10
 Authors: Delmas
 
 Dieu existe
