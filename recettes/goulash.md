@@ -15,10 +15,10 @@ Authentique-ish ? Pour être honnête, je sais pas trop, mais il est bon en tout
 
   - 1kg de paleron, ou viande à bourguignon, coupé en gros morceaux (4-5cm)
   - 2 oignons, coupés en gros morceaux
-  - 2 grosses càc de graines de carvi, écrasées (mortier pilon, ou au couteau ça marche aussi pas mal)
-  - 2 grosses càs de paprika
+  - 3-4 grosses càc de graines de carvi, écrasées (mortier pilon, ou au couteau ça marche aussi pas mal)
+  - 3-4 grosses càs de paprika
   - 3 gousses d'aïl, hachées ou écrasées
-  - 1 càc de marjolaine
+  - 2 càc de marjolaine
   - Thym (une petite càc)
   - 1 feuille de laurier
   - 2 càs de Balsamique
