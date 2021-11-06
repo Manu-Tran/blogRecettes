@@ -51,6 +51,7 @@ Elle est pas mal
 >La tarte va être retournée à la fin, mettez le côté joli rond des pommes vers le fond
   12. (Optionnel si vous n'utilisez pas de moule) Enfournez à 180 pendant une heure, sans la pâte.
   13. Rajouter le disque de pâte, et cuire encore 20min à 180.
+>Pour éviter que le caramel ne coule trop au moment du retournage, vous pouvez faire rentrer bien la pâte sur le bords, mais au pire c'est pas grave.
   14. Si vous avez la foi, laissez le tout se reposer (jusqu'à une journée au frigo).
   15. Au moment de servir, réchauffer le moule au chalumeau ou au gaz, pour refaire fondre le caramel, et inverser dans un plat.
   16. Servir avec une boule de glace ou une cuillère de crème fraîche
