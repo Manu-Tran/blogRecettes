@@ -18,7 +18,7 @@ Des courgettes à la poêle avec une sauce mortelle. Puevent être servies chaud
   - 6 gousses d'aïl, en fines tranches
   - Harissa 1 càs, plus si vous avez la foi
   - 1 piment rouge, hâché
-  - Un demi citron confit (cf un peu plus haut dans les recettes), coupé en petits morceaux
+  - [Un demi citron confit](citrons-confits) (cf un peu plus haut dans les recettes), coupé en petits morceaux
   - Jus de citron (2 càs)
   - Basilic (une botte, 10g de feuilles), vite fait coupées
   - Huile d'olive (8-10cL)
