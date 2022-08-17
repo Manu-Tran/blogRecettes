@@ -1,5 +1,5 @@
-Title: Template
-Category: Template
+Title: Poulet-Curry
+Category: Poulet
 Tags: template, rien
 Date: 2020-08-01
 Modified: 2020-08-03
