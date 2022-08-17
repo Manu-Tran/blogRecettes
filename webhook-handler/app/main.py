@@ -1,5 +1,6 @@
 from github_webhook import Webhook
 from flask import Flask
+from datetime import datetime
 import git
 
 def create_app():
@@ -13,7 +14,9 @@ def create_app():
     @app.route("/")         # Standard Flask endpoint
     def on_get():
         o.fetch()
-        print("Git repo updated !")
+        now = datetime.now()
+        d1 = now.strftime("%Y/%m/%d %H:%M:%S")
+        print(d1+" Git repo updated !")
         return "Git repo updated !"
 
 
