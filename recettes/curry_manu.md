@@ -1,6 +1,6 @@
 Title: Poulet-Curry
 Category: Poulet
-Tags: template, rien
+Tags: rien
 Date: 2020-08-01
 Modified: 2020-08-03
 Authors: Manu
