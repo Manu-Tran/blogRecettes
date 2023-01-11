@@ -41,4 +41,6 @@ Authentiqu-ish, mais c'est bon et assez rapide à faire
   
   9. Enjoy
   
-  
+## Crédits
+
+[Source](https://shesimmers.com/2012/05/pad-ka-prao-%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2.html)  (j'en ai pas testé d'autres d'elle, mais elle a l'air quali, et recommandée par le king Kenji)
