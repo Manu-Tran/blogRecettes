@@ -1,7 +1,7 @@
 Title: Porc au basilic 
 Category: Plat
 Tags: Porc, Thaï
-Date: 2022-01-11
+Date: 2023-01-11
 Authors: Delmas
 
 Authentiqu-ish, mais c'est bon et assez rapide à faire
@@ -12,7 +12,7 @@ Authentiqu-ish, mais c'est bon et assez rapide à faire
 ## Ingrédients
 > Pour 2 personnes.
 
-  - 200g de porc haché (nous on coupe finement au couteau des cotes de porce, c'est nickel), autre viande genre poulet c'est cool aussi
+  - 200g de porc haché (nous on coupe finement au couteau des cotes de porc, c'est nickel), autre viande genre poulet c'est cool aussi
   - Une botte de feuilles de basilic (idéalement basilic sacré, mais j'en ai pas trouvé, l'italien passe bien) coupées grossièrement
   - 1 échalotte
   - 4-5 gousses d'aïl
@@ -24,20 +24,21 @@ Authentiqu-ish, mais c'est bon et assez rapide à faire
 
 ## Préparation
   
-  1. Ecraser ensemble l'échalote, l'ail et le piment pour avoir une sorte de pâte
+  1. Ecraser ensemble l'échalote, l'ail et le piment pour avoir une sorte de pâte, au mortier idéalement, mais hachoir électrique doit pouvoir marcher 
 
   2. Mélanger les liquides pour faire la sauce
-  3. Dans une poele antiadhésive ou un wok, faire chauffer de l'huile
-
-  4. Mettre le porc
-
-  5. Quand le porc n'est plus rose, ajouter la sauce
   
-  6. Une fois le tout assez cuit/réduit à vore gout, couper le feu
+  3. Dans une poele antiadhésive ou un wok, faire chauffer de l'huile à feu assez fort
+
+  4. Mettre le porc et agiter
+
+  5. Quand le porc n'est plus rose, ajouter la sauce (les liquides mélangés)
+  
+  6. Une fois le tout assez cuit/réduit à vore gout, couper le feu, ajuster la sauce en sel/poivre (un peu de sucre peut aider, surtout si vous avez pas de dark soy)
 
   7. Ajouter le basilic au dernier moment, touiller, et servir sur du riz
   
-  8. Optionnel, mettre un oeuf sur le plat dessus
+  8. (Optionnel) Mettre un oeuf sur le plat dessus
   
   9. Enjoy
   
