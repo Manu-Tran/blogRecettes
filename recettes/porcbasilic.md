@@ -28,7 +28,7 @@ Authentiqu-ish, mais c'est bon et assez rapide à faire
 
   2. Mélanger les liquides pour faire la sauce
   
-  3. Dans une poele antiadhésive ou un wok, faire chauffer de l'huile à feu assez fort
+  3. Dans une poele antiadhésive ou un wok, faire chauffer de l'huile à feu assez fort et faire revenir la pâte d'épices jusqu'à ce que ça sente super bon. 
 
   4. Mettre le porc et agiter
 
