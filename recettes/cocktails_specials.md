@@ -4,7 +4,7 @@ Tags: Alcool, simple, template, végé, cocktail
 Date: 2023-02-21
 Authors: Delmas
 
-Mes recettes préférées, toujours raisonnables en termes d'ingrédients, mais avec un plus grand effet waou
+Mes recettes préférées, toujours raisonnables en termes d'ingrédients, mais avec un plus grand effet waou. SI vous trouvez une bouteille d'angostura bitters (chez les cavistes souvent) c'est un bon moyen d'upgrade votre cocktail game, c'est comme des épices à drink
 
 - *Préparation* : 3 jours si vous faites des cookies à côté, sinon 5min.
 - *Cuisson* : 0min, des no-bake cocktails en quelque sorte
@@ -107,9 +107,11 @@ Mes recettes préférées, toujours raisonnables en termes d'ingrédients, mais 
   4. Vous pouvez laisser séparé pour jouer sur vos ratio et ajuster la recette finale, ou combiner les sirop 1 pour 1
 
   0bis (Méthode alternative, plus rapide, un gout plus épicé, un peu comme le gingembre en poudre)
+
   1. Coupez du gingembre en rondelles, comptez deux trois tranches par doses.
   2. Mélanger dans une casserole 1 volume d'eau chaude, 3 volumes de miel, et les tranches de gingembre
   3. Laisser infuser, en goutant régulièrement pour ajuster le gout, ajouter de l'au si ca s'évapore trop
+ 
 > Le sirop se conserve vraiment super longtemps, je conseille d'en faire un big batch en avance avec un gros morceau de gembregin
 
 ## Préparation du cocktail
