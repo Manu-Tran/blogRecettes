@@ -32,6 +32,7 @@ Mes recettes préférées, toujours raisonnables en termes d'ingrédients, mais 
 
 # Gordon's cup
 > Hyper frais, ça fait un peu boisson de grand mère mais c'est mortel
+
   - Un citron vert, coupé en huitièmes
   - Quatre rondelles de concombre
   - 60mL de Gin 
@@ -47,6 +48,7 @@ Mes recettes préférées, toujours raisonnables en termes d'ingrédients, mais 
 
 # Earl Grey Mar-tea-ni
 > Cheff kiss si vous aimez le thé noir
+
   - 4 volumes de Gin infusé au thé
   - 2 volumes de jus de citron
   - 1 volume de sucre
@@ -63,6 +65,7 @@ Mes recettes préférées, toujours raisonnables en termes d'ingrédients, mais 
 
 # Old Fashionned
 > Un archi classique vraiment easy, je le mets ici car bon, et nécessite les bitters quand meme, des gouts subtils d'oranges très sympas
+
   - 4 volumes de bourbon (ou whisky qui passe bien)
   - 1 volume de sucre (ou un petit cube pour faire vraiment style vieux)
   - Angostura bitters
@@ -88,6 +91,7 @@ Mes recettes préférées, toujours raisonnables en termes d'ingrédients, mais 
 > C'est gingembré, miellé, fumé réconfortant, ouf
 
 > En plus ya ilin dans le nom
+
   - 4 volumes de blended scotch (idéalment monkey shoulder, qqch de bien équilibré)
   - 2 volumes de jus de citron
   - 1 volume de sirop miel gingembre
