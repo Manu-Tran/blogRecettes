@@ -67,12 +67,13 @@ Après pas mal d'itérations, je pense commencer à converger vers une recette q
     5. Mettre le mélange dans les pots, en faisant bien attention à bien tasser le contenu du pot pour chasser le plus d'air possible.
     6. Une fois à ras-bord, fermer le pot et passer au suivant
 
+
 - Fermentation
 
 
-   1. Conserver le kimchi hors du frigo pendant au moins 2 jours, plus il sera laissé dehors, plus il sera acide. Une fois ouvert, le kimchi se conserve plutot au frigo.
-   2. Penser à mettre une coupole sous votre bocal, puisque le kimchi a tendance à dégaser et à cracher sa sauce dans la meme occasion
-   3. Ouvrir de temps en temps le bocal pour faire évacuer l'air dans les premiers jours (attention, opération à faire dans un évier)
+    1. Conserver le kimchi hors du frigo pendant au moins 2 jours, plus il sera laissé dehors, plus il sera acide. Une fois ouvert, le kimchi se conserve plutot au frigo.
+    2. Penser à mettre une coupole sous votre bocal, puisque le kimchi a tendance à dégaser et à cracher sa sauce dans la meme occasion
+    3. Ouvrir de temps en temps le bocal pour faire évacuer l'air dans les premiers jours (attention, opération à faire dans un évier)
 
 
 A consommer pendant un repas en extra, ou alors en Kimchi Jjigae (recette à venir soon).
