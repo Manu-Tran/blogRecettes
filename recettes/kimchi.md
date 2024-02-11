@@ -38,12 +38,17 @@ Après pas mal d'itérations, je pense commencer à converger vers une recette q
 ## Préparation
 
 - Preparation du chou
+
+
     1. Retirer les feuilles du chou et les rincer sous l'eau
     2. Mettre dans une grande casserole le sel et les feuilles de chou
     3. Ajouter de l'eau jusqu'à recouvrir toutes les feuilles (bien les tasser)
     4. Laisser tremper pendant 30min environ
 
+
 - Préparation de la sauce
+
+
     1. Dans un mixeur, ajouter pomme, poire, oignon et ail préalablement préparés ainsi que les crevettes saumurées
     2. Mixer le mélange grossièrement (ce n'est pas grave s'il reste des petits morceaux)
     3. Ajouter Nuoc mam & Goshugaru, et corriger selon votre gout
@@ -51,7 +56,10 @@ Après pas mal d'itérations, je pense commencer à converger vers une recette q
     5. Ajouter le contenu de la casserole avec le mélange mixé et mélanger le tout
     6. Réserver pendant 30min environ
 
+
 - Mise en bocal
+
+
     1. Couper le radis et les carottes en julienne
     2. Essorer le chou et le laisser secher une 30aine de minutes
     3. Dans un grand saladier, mélanger une poignée de feuilles de chou, une poignée de légumes et une cuillère à soupe de sauce
@@ -60,9 +68,12 @@ Après pas mal d'itérations, je pense commencer à converger vers une recette q
     6. Une fois à ras-bord, fermer le pot et passer au suivant
 
 - Fermentation
+
+
    1. Conserver le kimchi hors du frigo pendant au moins 2 jours, plus il sera laissé dehors, plus il sera acide. Une fois ouvert, le kimchi se conserve plutot au frigo.
    2. Penser à mettre une coupole sous votre bocal, puisque le kimchi a tendance à dégaser et à cracher sa sauce dans la meme occasion
    3. Ouvrir de temps en temps le bocal pour faire évacuer l'air dans les premiers jours (attention, opération à faire dans un évier)
+
 
 A consommer pendant un repas en extra, ou alors en Kimchi Jjigae (recette à venir soon).
 
