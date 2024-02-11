@@ -7,19 +7,21 @@ Authors: Manu
 Summary: Un grand classique de la cuisine coréenne !
 
 Après pas mal d'itérations, je pense commencer à converger vers une recette qui me plait vraiment beaucoup.
+
 - *Préparation* : 2 heures.
+
 - *Fermentation* : 2j hors du frigo min, et après jusqu'à 1 mois au frigo.
 
 ## Ingrédients
 > Pour 2 pots.
 
-- Pour les légumes
+* Pour les légumes
   - 1 chou chinois
   - Un radis blanc (daikon) : seulement 20cm du radis seront utilisés pour deux pots
   - 2 carottes
   - 50g de gros sel
 
-- Pour la sauce
+* Pour la sauce
   - 6 cuillères à soupe de Goshugaru (flacons de piments coréens)
   - 6 cuillères à soupe de Nuoc Mam
   - 3 cuillères à soupe de Saeujeot (mini crevettes saumurées coréennes)
