@@ -2,7 +2,7 @@ Title: Minestrone
 Category: Plat
 Tags: vege, soupe
 Date: 2023-01-22
-Authors: Romain
+Authors: Brisse
 
 Une recette de notre maître à tous le mec qui te fait hurler connard quand tu goûtes une nouvelle recette de lui et que c'est *encore* une tuerie : Yotam Ottolenghi
 
