@@ -2,7 +2,7 @@ Title:  Spicy peanut sauce
 Category: Sauce
 Tags: Peanut butter, Spicy
 Date: 2023-01-22
-Authors: Romain
+Authors: Brisse
 
 - *Préparation* : 2min
 - *Cuisson* : 0min
