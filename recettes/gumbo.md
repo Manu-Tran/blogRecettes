@@ -2,7 +2,7 @@ Title: Gumbo de l'espace
 Category: Plat
 Tags: bloubloutage, ragout
 Date: 2024-03-27
-Authors: Romain
+Authors: Brisse
 
 # **Ingredients**
 > Pour genre 4-6 personnes
