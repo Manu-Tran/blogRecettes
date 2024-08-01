@@ -1,4 +1,4 @@
-Title: Cocktails en tout genre
+Title: Cocktails de base en tout genre
 Category: Boissons
 Tags: Alcool, simple, template
 Date: 2021-07-15
@@ -39,9 +39,9 @@ Mes recettes les plus simples, qui ne nécéssitent pas d'alcools ou d'ingrédie
 # White Russian
 >El classico
 
-  -Vodka
-  -Kahalu (ou autre liqueur de café)
-  -Lait
+  - Vodka
+  - Kahalu (ou autre liqueur de café)
+  - Lait
 
 ## Préparation
 
@@ -54,11 +54,11 @@ Mes recettes les plus simples, qui ne nécéssitent pas d'alcools ou d'ingrédie
 # Mojito
 > Frais, sucré, un A tier large
 
-   -Rhum Blanc (Cubain je dirais, mais je suis pas un expert en rhums)
-   -Feuilles de menthe
-   -Sucre (liquide, ou en poudre pour un cocktail plus rustique)
-   -Jus de citron (vert de préférence)
-   -Limonade ou tonic (ajuster le sucre en fonction)
+   - Rhum Blanc (Cubain je dirais, mais je suis pas un expert en rhums)
+   - Feuilles de menthe
+   - Sucre (liquide, ou en poudre pour un cocktail plus rustique)
+   - Jus de citron (vert de préférence)
+   - Limonade ou tonic (ajuster le sucre en fonction)
  
 ## Préparation
 
@@ -67,18 +67,4 @@ Mes recettes les plus simples, qui ne nécéssitent pas d'alcools ou d'ingrédie
   3. ajouter un paquet de glace pilée (glaçons dans un torchon tapés contre un mur par exemple)
   4. Compléter avec le tonic jusqu'au gout et volume voulu
 
-# Gordon's cup
-> Hyper frais, ça fait un peu boisson de grand mère mais c'est mortel
-  - Un citron vert, coupé en huitièmes
-  - Quatre rondelles de concombre
-  - 60mL de Gin 
-  - 20mL de sirop de sucre
-  - Sel & Poivre
 
-## Préparation
-
-  1. Mettre tous les ingrédients sauf sel poivre dans un shaker et secouer
-  2. Servir avec des glaçons, et garnir d'un bout de citron s'il en reste, sion une rondelle de concombre, et ajouter sel et poivre
-  3. Enjoy
- 
-> Je complète avec d'autres recettes soon, mais faut que je retourne bosser là

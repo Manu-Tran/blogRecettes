@@ -1,13 +1,13 @@
 Title: Poulet Citronelle
 Category: Plat
-Tags: viance, poulet, asiatique
-Date: 2020-09-14
-Modified: 2020-09-14
+Tags: viande, poulet, asiatique
+Date: 2024-02-11
+Modified: 2024-02-11
 Authors: Manu
 
 Un grand classique des plats vietnamiens !
 
-- *Préparation* : 20 minutes.
+- *Préparation* : 30 minutes.
 - *Cuisson* : 30 minutes.
 
 ## Ingrédients
@@ -20,28 +20,36 @@ Un grand classique des plats vietnamiens !
 - Nuoc mam
 - 4 cuillères à soupe de sucre
 - (Eventuellement des légumes crus coupés trempés dans du vinaigre (carottes, chou blanc))
-
-## Ingrédients (Alt)
-
-  Pour 1 Template    | Pour 1 tasse de café
-  -------------      | -------------
-  Temps              | 2 cas de Café en poudre
-  Internet           | Eau
+- 1 cuillère à soupe de curry
 
 ## Préparation
 
-  1. Allumer son ordinateur
+  La veille :
 
-  2. Boire son *café*
+   1. Taper la citronnelle et la découper en morceau d'un centimètre de long
 
-    Attention à ne pas se bruler
+   2. Faire mariner le poulet avec le nuoc mam et la citronnelle ainsi que une cuillère de curry et l'ail émincé
+   3. Laisser reposer toute la nuit
 
-  3. Eteindre son ordinateur
+  Pour le caramel :
 
-## Photo
+   1. Mettre le sucre dans une casserole bien propre à feu moyen
 
-[![template.jpeg]({static}images/template.jpeg){width=65%}]({static}images/template.jpeg)
+   2. Quand le sucre a déjà bien fondu, commencer à remuer et préparer un verre d'eau
 
-## Remarques
-  - Faire gaffe à la syntaxe Markdown qui peut être relou de temps à autre. Dans le doute, ajouter des sauts de lignes corrige 90% des problèmes.
+   > Attention, il est facile de laisse bruler son caramel et rendre sa casserole inutilisable
 
+   3. Quand le caramel atteint une teinte bien foncée, baisser le feu et ajouter le verre d'eau **en plusieurs fois**, en prenant bien le temps de touiller entre chaque ajout d'eau
+   Le but est d'arreter la cuisson du caramel sans le solidifier.
+
+  Pour le plat :
+
+   1. Faire saisir les cuisses de poulet découpées en deux dans de l'huile très chaude
+
+   2. Une fois le poulet coloré, ajouter l'oignon et le caramel et completer avec un verre d'eau
+
+   3. Ajouter une cuillère de sauce de soja light et nuoc mam, et corriger selon votre gout.
+
+   4. Laisser bloublouter pendant environ 1h.
+
+   5. Servir avec du riz, et filtrer autant que possible les morceaux de citronnelle lors du service de la sauce
