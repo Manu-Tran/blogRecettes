@@ -1,4 +1,4 @@
-Title: Template
+Title: Kimchi Jjigae
 Category: Template
 Tags: template, rien
 Authors: Manu
