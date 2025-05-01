@@ -4,6 +4,7 @@ Tags: Pates, Végé, Chinois
 Date: 2024-07-11
 Authors: Delmas
 
+Un plat de nouilles chinoises avec une sauce salée/sucrée/aromatique qui colle bien à des nouilles épaisses, c'est super bon. (Visuels et histoire dans la source à la fin)
 Alors, ya plein de petits trucs/sauces etc. à préparer, ça fait beaucoup pour un seul plat, mais de un ça vaut le coup, et de deux ça se prépare bien en avance/se conserve bien pour que quand vous avez envie ça se fait en 5min, ish.
 Si vous avez la flemme de faire vos propres pates (c'est bien moins bon mais bien plus rapide, prenez les nouilles les plus épaisses que vous trouvez en boutique, genre udon, nouilles chinoises épaisses ou fat tagliatelles)
 
@@ -24,7 +25,7 @@ Si vous avez la flemme de faire vos propres pates (c'est bien moins bon mais bie
   - Une petite cuiller de gingembre en poudre
   - Une gousse de cardamome (noire si possible)
 > Pour l'huile pimentée (Idem, assez pour 4, avec peu de rab, moi je dis doublez et mettez sur du riz ou des oeufs ça déglingue)
-  - Huile neutre (pas olive, mais si vous avez arachide c'est good) ~60mL
+  - Huile neutre (n'importe laquelle sauf olive, mais si vous avez arachide c'est good) ~60mL
   - 2 CàS Piment en poudre pas très fort (type gochugaru coréen, ou autre piemnt assez chill)
   - 1 CàC Piment en poudre fort (type cayenne)
   - [LaoGanMa Chili crisp](https://www.qwant.com/?client=brz-moz&t=images&q=laoganma+crispy+chilli+oil) (~autant que l'huile) 
@@ -66,7 +67,7 @@ Si vous avez la flemme de faire vos propres pates (c'est bien moins bon mais bie
 
 
 ## Remarques
-  - Perso j'aime bien garder à portée les ingrédients en rab, genre l'eau à l'ai, le piment etc. et ajuster au gout dans mon bol
+  - Perso j'aime bien garder à portée les ingrédients en rab, genre l'eau à l'ail, le piment etc. et ajuster au gout dans mon bol
   - Pour une recette chinoise authentique, celle là est relativement facile à faire, sans nécessiter des trucs trop exotiques (imaginez le reste)
   - [Source, la chaine est super quali](https://www.youtube.com/watch?v=C8LRqYycIVQ)  
   
