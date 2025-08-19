@@ -13,7 +13,7 @@ EXTRA_PATH_METADATA = {
 AUTHOR = 'CGNan'
 SITENAME = 'Blog de Recettes du CGNan'
 SITEURL = ''
-THEME = 'pelican-themes/elegant'
+THEME = '/site/pelican-themes/elegant'
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
@@ -62,10 +62,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 #           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+BIND = "0.0.0.0"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# Plugins
-PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['tipue_search']

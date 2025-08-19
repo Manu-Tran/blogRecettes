@@ -1,11 +1,12 @@
 # Image minimale contenant Pelican
-FROM vorakl/alpine-pelican
+FROM williamjackson/pelican:latest
 
 # Ajout du site
 COPY . /site
 
 # Patch du thème
-RUN cp -f /site/custom-templates/* /site/pelican-themes/elegant/templates/
+# RUN cp -rf /site/custom-templates/* /site/pelican-themes/elegant/templates/
+COPY custom-templates /site/pelican-themes/elegant/templates
 
 # On expose les ports
 EXPOSE 8000

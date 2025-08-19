@@ -4,3 +4,7 @@
 [submodule "pelican/pelican-plugins"]
 	path = pelican/pelican-plugins
 	url = https://github.com/getpelican/pelican-plugins
+[submodule "zola/themes/daisy"]
+	path = zola/themes/daisy
+	url = https://codeberg.org/winterstein/zola-theme-daisy.git
+	branch = main
