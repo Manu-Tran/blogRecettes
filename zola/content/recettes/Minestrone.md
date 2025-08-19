@@ -6,9 +6,9 @@ taxonomies:
   tags:
     - vege
     - soupe
-date: 2023-01-22
   authors:
       - Brisse
+date: 2023-01-22
 ---
 Une recette de notre maître à tous le mec qui te fait hurler connard quand tu goûtes une nouvelle recette de lui et que c'est *encore* une tuerie : Yotam Ottolenghi
 

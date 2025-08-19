@@ -1,9 +1,16 @@
-Title: Cilbir (Oeufs pochés turques, sauce blanche et beurre au piment)
-Category: Brunch
-Tags: Oeufs, simple, végé
-Date: 2024-07-16
-Authors: Delmas
-
+---
+title: Cilbir (Oeufs pochés turques, sauce blanche et beurre au piment)
+taxonomies:
+  category:
+    - Brunch
+  tags:
+    - Oeufs
+    - simple
+    - végé
+  authors:
+      - Delmas
+date: 2024-07-16
+---
 Très sympa en brunch, plat léger ou même en entrée d'un repas un peu fancy
 
 - *Préparation* : 10 minutes.

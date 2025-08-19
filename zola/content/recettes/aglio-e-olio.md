@@ -1,9 +1,17 @@
-Title: Spaghetti aglio, olio e peperoccini
-Category: Plat
-Tags: Pates, végé, simple, italien
-Date: 2020-08-07
-Authors: Delmas
-
+---
+title: Spaghetti aglio, olio e peperoccini
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Pates
+    - végé
+    - simple
+    - italien
+  authors:
+      - Delmas
+date: 2020-08-07
+---
 Spag aïl, huile et piment en français dans le texte
 Toujours plus de pâtes, une recette qui passe aussi bien en date qu'en solution de la flemme
 

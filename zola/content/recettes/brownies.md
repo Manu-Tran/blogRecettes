@@ -1,9 +1,15 @@
-Title: Brownies au caramel
-Category: Dessert
-Tags: chocolat, phat
-Date: 2024-03-27
-Authors: Brisse
-
+---
+title: Brownies au caramel
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - chocolat
+    - phat
+  authors:
+      - Brisse
+date: 2024-03-27
+---
 ## Ingrédients
 
 * 200g de beurre doux

@@ -1,11 +1,17 @@
-Title: Maquereaux à la viet
-Category: Plat
-Tags: poisson, viet
-Date: 2021-03-10
-Modified: 2021-03-10
-Authors: Manu
-Summary: Poisson cuisiné à la poêle au nuoc mam pour écoeurer tous vos collocs
-
+---
+title: Maquereaux à la viet
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - poisson
+    - viet
+  authors:
+      - Manu
+date: 2021-03-10
+updated: 2021-03-10
+summary: "Poisson cuisiné à la poêle au nuoc mam pour écoeurer tous vos collocs"
+---
 Un bon moyen de mettre en valeur un poisson plus bon marché.
 
 - *Préparation* : 20 minutes.

@@ -1,9 +1,18 @@
-Title: Cocktails sympas moins habituels
-Category: Boissons
-Tags: Alcool, simple, template, végé, cocktail
-Date: 2023-02-21
-Authors: Delmas
-
+---
+title: Cocktails sympas moins habituels
+taxonomies:
+  category:
+    - Boissons
+  tags:
+    - Alcool
+    - simple
+    - template
+    - végé
+    - cocktail
+  authors:
+      - Delmas
+date: 2023-02-21
+---
 Mes recettes préférées, toujours raisonnables en termes d'ingrédients, mais avec un plus grand effet waou. SI vous trouvez une bouteille d'angostura bitters (chez les cavistes souvent) c'est un bon moyen d'upgrade votre cocktail game, c'est comme des épices à drink
 
 - *Préparation* : 3 jours si vous faites des cookies à côté, sinon 5min.

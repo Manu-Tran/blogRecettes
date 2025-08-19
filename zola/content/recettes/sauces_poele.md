@@ -1,9 +1,14 @@
-Title: Sauces minute pour viande
-Category: Technique
-Tags: Sauce
-Date: 2020-10-12
-Authors: Delmas
-
+---
+title: Sauces minute pour viande
+taxonomies:
+  category:
+    - Technique
+  tags:
+    - Sauce
+  authors:
+      - Delmas
+date: 2020-10-12
+---
 Las famosas, pour upgrader "steak craquage" en "bavette d'aloyau sauce au poivre"
 
 - *Préparation* : 5 minutes.

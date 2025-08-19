@@ -1,10 +1,17 @@
-Title: Poulet Citronelle
-Category: Plat
-Tags: viande, poulet, asiatique
-Date: 2024-02-11
-Modified: 2024-02-11
-Authors: Manu
-
+---
+title: Poulet Citronelle
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - viande
+    - poulet
+    - asiatique
+  authors:
+      - Manu
+date: 2024-02-11
+updated: 2024-02-11
+---
 Un grand classique des plats vietnamiens !
 
 - *Préparation* : 30 minutes.

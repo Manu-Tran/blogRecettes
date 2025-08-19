@@ -1,9 +1,14 @@
-Title: Croissants
-Category: Petit dèj
-Tags: Chocolat
-Date: 2022-04-13
-Authors: Delmas
-
+---
+title: Croissants
+taxonomies:
+  category:
+    - Petit dèj
+  tags:
+    - Chocolat
+  authors:
+      - Delmas
+date: 2022-04-13
+---
 Ou comment se la péter de ouf, apprécier un truc super bon, passer une étape dans votre boulangerie graduate programme, et ne pas à avoir à dépenser 90 centimes en boulangerie.
 
 

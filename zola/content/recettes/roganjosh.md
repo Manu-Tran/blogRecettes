@@ -1,9 +1,16 @@
-Title: Rogan Josh (Curry Indien)
-Category: Plat
-Tags: Epicé, Seigneur-Killer, Végé
-Date: 2022-04-29
-Authors: Delmas
-
+---
+title: Rogan Josh (Curry Indien)
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Epicé
+    - Seigneur-Killer
+    - Végé
+  authors:
+      - Delmas
+date: 2022-04-29
+---
 Apparament curry c'est un mot générique pour désigner sauce, un peu comme ragout chez nous. Celui ci est épicé, réconfortant.
 Les épices sont à titre indicatif, customisables à fond, mais gaffe, tel quel il est fort
 

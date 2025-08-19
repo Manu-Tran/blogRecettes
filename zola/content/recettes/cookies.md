@@ -1,9 +1,16 @@
-Title: LA recette des cookies
-Category: Dessert
-Tags: Bon, cooooookies, sucre
-Date: 2021-11-12
-Authors: Delmas
-
+---
+title: LA recette des cookies
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - Bon
+    - cooooookies
+    - sucre
+  authors:
+      - Delmas
+date: 2021-11-12
+---
 J'ai longtemps hésité à partager la recette de mon succès, mais je me suis dit que j'étais au dessus de ça, et puis, c'est pratique pour moi de l'avoir ici.
 So here it is.
 La recette des cookies. This is powerfull knowledge, respect it and thou shall be rewarded greatly.

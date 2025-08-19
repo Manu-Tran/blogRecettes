@@ -1,9 +1,17 @@
-Title: Charlotte aux fraises
-Category: Dessert
-Tags: fraise, végé, simple, estival
-Date: 2021-08-11
-Authors: Milo
-
+---
+title: Charlotte aux fraises
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - fraise
+    - végé
+    - simple
+    - estival
+  authors:
+      - Milo
+date: 2021-08-11
+---
 La charlotte aux fraises foolproof. On peut remplacer la fraise par n'importe quels fruits rouges.
 Important : ne pas skip ou remplacer l'agar-agar, bien laisser prendre au frais au moins 4 heures et au mieux une nuit.
 

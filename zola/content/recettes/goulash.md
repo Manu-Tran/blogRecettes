@@ -1,9 +1,14 @@
-Title: Goulash 
-Category: Plat
-Tags: Râgout
-Date: 2020-12-17
-Authors: Delmas
-
+---
+title: Goulash
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Râgout
+  authors:
+      - Delmas
+date: 2020-12-17
+---
 Authentique-ish ? Pour être honnête, je sais pas trop, mais il est bon en tout cas
 
 

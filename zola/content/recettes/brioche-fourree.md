@@ -1,10 +1,16 @@
-Title: Brioche Fourree
-Category: Dessert
-Tags: sucré
-Date: 2020-08-10
-Modified: 2020-08-10
-Authors: Milo, Manu
-
+---
+title: Brioche Fourree
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - sucré
+  authors:
+      - Milo
+      - Manu
+date: 2020-08-10
+updated: 2020-08-10
+---
 - *Préparation* : TBD minutes.
 - *Cuisson* : 20 minutes.
 

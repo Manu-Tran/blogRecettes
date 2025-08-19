@@ -1,11 +1,18 @@
-Title: Ceviche tropical de saumon
-Category: Entrée
-Tags: poisson, saumon, passion
-Date: 2020-08-10
-Modified: 2020-08-10
-Authors: Romain
-Summary: Le ceviche saumon/passion du nouvel an
-
+---
+title: Ceviche tropical de saumon
+taxonomies:
+  category:
+    - Entrée
+  tags:
+    - poisson
+    - saumon
+    - passion
+  authors:
+      - Romain
+date: 2020-08-10
+updated: 2020-08-10
+summary: "Le ceviche saumon/passion du nouvel an"
+---
 Un ceviche saumon, passion, menthe
 
 - *Préparation* : 15 minutes.

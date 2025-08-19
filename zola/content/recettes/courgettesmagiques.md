@@ -1,9 +1,15 @@
-Title: Courgettes harissa citron
-Category: Accompagnement
-Tags: Legumes, végé
-Date: 2021-11-24
-Authors: Delmas
-
+---
+title: Courgettes harissa citron
+taxonomies:
+  category:
+    - Accompagnement
+  tags:
+    - Legumes
+    - végé
+  authors:
+      - Delmas
+date: 2021-11-24
+---
 Des courgettes à la poêle avec une sauce mortelle. Puevent être servies chaudes ou froides, en accompagnement ou en tapas
 
 - *Préparation* : 5 minutes.

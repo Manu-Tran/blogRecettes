@@ -1,9 +1,14 @@
-Title: Poulet carbonisé, sauce caramel clémentines
-Category: Plat
-Tags: Poulet
-Date: 2023-03-03
-Authors: Delmas
-
+---
+title: Poulet carbonisé, sauce caramel clémentines
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Poulet
+  authors:
+      - Delmas
+date: 2023-03-03
+---
 "Je goutis à ce plat, et je vis que cela était bon"
 -Evangile de Matthieu, où Yotam lui apparu
 

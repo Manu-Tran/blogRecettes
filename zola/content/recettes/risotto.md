@@ -1,9 +1,17 @@
-Title: Risotto template
-Category: Plat
-Tags: Riz, végé, base, simple
-Date: 2020-11-20
-Authors: Delmas
-
+---
+title: Risotto template
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Riz
+    - végé
+    - base
+    - simple
+  authors:
+      - Delmas
+date: 2020-11-20
+---
 Ritus Dénaturus Hereticus
 
 - *Préparation* : 5 minutes.

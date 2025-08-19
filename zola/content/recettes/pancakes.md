@@ -1,9 +1,15 @@
-Title: Pancakes
-Category: Brunch, petit-déjeuner, dessert
-Tags: Simple, sucré
-Date: 2025-05-01
-Authors: Delmas
-
+---
+title: Pancakes
+taxonomies:
+  category:
+    - Brunch, petit-déjeuner, dessert
+  tags:
+    - Simple
+    - sucré
+  authors:
+      - Delmas
+date: 2025-05-01
+---
 Ils se font vite, pas besoin de faire se reposer la pâte, ils utilisent la puissance de la chimie et du coup ils sont bons et flouffys
 
 - *Préparation* : 5 minutes.

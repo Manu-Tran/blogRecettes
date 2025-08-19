@@ -1,9 +1,17 @@
-Title: Citrons confits
-Category: Condiment
-Tags: Citron, végé, simple, condiment
-Date: 2021-08-31
-Authors: Delmas
-
+---
+title: Citrons confits
+taxonomies:
+  category:
+    - Condiment
+  tags:
+    - Citron
+    - végé
+    - simple
+    - condiment
+  authors:
+      - Delmas
+date: 2021-08-31
+---
 Ou comment pouvoir mettre une bombe au citron dans tous les plats, et être toujours plus impressionné que ça marche vraiment avec tout
 
 - *Préparation* : 5 minutes.

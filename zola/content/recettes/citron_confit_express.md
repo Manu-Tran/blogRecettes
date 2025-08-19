@@ -1,9 +1,14 @@
-Title:  Citron confit de la flemme
-Category: Sauce
-Tags: citron
-Date: 2023-01-22
-Authors: Brisse
-
+---
+title: Citron confit de la flemme
+taxonomies:
+  category:
+    - Sauce
+  tags:
+    - citron
+  authors:
+      - Brisse
+date: 2023-01-22
+---
 C'est vraiment un condiment à mélanger avec n'importe quoi pour ceux qui aiment le citron. Ne pas hésiter à en faire un gros batch ca se gard eun bon gros mois au frigo, plus si pot stérilisé avant.
 
 - *Préparation* : 2min

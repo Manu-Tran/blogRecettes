@@ -1,11 +1,18 @@
-Title: Muffins chocolat-banane
-Category: Dessert
-Tags: chocolat, banane, muffins
-Date: 2020-08-10
-Modified: 2020-08-10
-Authors: Milo
-Summary: Muffins croustillants au chocolat et à la banane
-
+---
+title: Muffins chocolat-banane
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - chocolat
+    - banane
+    - muffins
+  authors:
+      - Milo
+date: 2020-08-10
+updated: 2020-08-10
+summary: "Muffins croustillants au chocolat et à la banane"
+---
 Une bonne recette pour utiliser des bananes un trop mûres qui traînent. Les flocons d'avoine ne sont pas indispendables mais ils rendent les muffins plus croustillants. Le goût de banane n'est pas très prononcé, ce qui est parfait pour les gens qui comme moi détestent les bananes.
 
 

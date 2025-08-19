@@ -1,11 +1,17 @@
-Title: Guacamole
-Category: Apéro
-Tags: végétarien, mexicain
-Date: 2020-08-07
-Modified: 2020-08-07
-Authors: Romain
-Summary: Le guacamole qui disparaît toujours trop vite
-
+---
+title: Guacamole
+taxonomies:
+  category:
+    - Apéro
+  tags:
+    - végétarien
+    - mexicain
+  authors:
+      - Romain
+date: 2020-08-07
+updated: 2020-08-07
+summary: "Le guacamole qui disparaît toujours trop vite"
+---
 Le classique guacamole pour l'apéro, très frais et qui part toujours très vite.
 
 - *Préparation* : 20 minutes.

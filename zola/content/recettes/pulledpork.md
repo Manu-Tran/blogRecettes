@@ -1,9 +1,16 @@
-Title: Pulled pork de la distillerie
-Category: Plat
-Tags: viande, porc, slow_cooked
-Date: 2024-03-27
-Authors: Brisse
-
+---
+title: Pulled pork de la distillerie
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - viande
+    - porc
+    - slow_cooked
+  authors:
+      - Brisse
+date: 2024-03-27
+---
 # Ingrédients
 > Pour 3 personnes environ
 

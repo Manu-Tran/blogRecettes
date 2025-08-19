@@ -1,9 +1,15 @@
-Title: Pommes de terre rôties au four
-Category: Accompagnement
-Tags: Patates, vege
-Date: 2020-08-13
-Authors: Delmas
-
+---
+title: Pommes de terre rôties au four
+taxonomies:
+  category:
+    - Accompagnement
+  tags:
+    - Patates
+    - vege
+  authors:
+      - Delmas
+date: 2020-08-13
+---
 Les meilleures pommes de terre de votre vie ever, genre ez top 25 de mes meilleures expériences
 
 - *Préparation* : 5-10 minutes.

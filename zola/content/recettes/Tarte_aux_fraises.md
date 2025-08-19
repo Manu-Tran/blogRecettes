@@ -1,9 +1,16 @@
-Title: Tarte aux fraises
-Category: Dessert
-Tags: Fraises, Framboises, tarte
-Date: 2022-08-21
-Authors: Axelle
-
+---
+title: Tarte aux fraises
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - Fraises
+    - Framboises
+    - tarte
+  authors:
+      - Axelle
+date: 2022-08-21
+---
 - *Préparation* : 20 à 30 min et quelques heures au frais pour la pâte
 - *Cuisson* : R, wallou
 

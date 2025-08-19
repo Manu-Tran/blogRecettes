@@ -1,9 +1,14 @@
-Title: Fajitas de poulet
-Category: Plat
-Tags: Mexicain
-Date: 2020-08-11
-Authors: Delmas
-
+---
+title: Fajitas de poulet
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Mexicain
+  authors:
+      - Delmas
+date: 2020-08-11
+---
 Peut être potentiellement galère en terme de temps, mais se parallèlise bien
 
 

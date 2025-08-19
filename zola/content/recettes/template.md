@@ -1,11 +1,17 @@
-Title: Template
-Category: Template
-Tags: template, rien
-Date: 2020-08-01
-Modified: 2020-08-03
-Authors: Manu
-Summary: Un bon template pour les futures glorieuses recettes !
-
+---
+title: Template
+taxonomies:
+  category:
+    - Template
+  tags:
+    - template
+    - rien
+  authors:
+      - Manu
+date: 2020-08-01
+updated: 2020-08-03
+summary: "Un bon template pour les futures glorieuses recettes !"
+---
 
 Un bon template pour montrer les bases du markdown !
 

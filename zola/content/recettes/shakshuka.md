@@ -1,9 +1,15 @@
-Title: Shakshuka
-Category: Plat
-Tags: végé, simple
-Date: 2021-02-23
-Authors: Delmas
-
+---
+title: Shakshuka
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - végé
+    - simple
+  authors:
+      - Delmas
+date: 2021-02-23
+---
 Une fat sauce tomate avec des oeufs cuits directement dedans, parfait en brunch
 
 - *Préparation* : 10 minutes.

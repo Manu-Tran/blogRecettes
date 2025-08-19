@@ -1,11 +1,18 @@
-Title: Nuoc-mam poelée, réduction de fish sauce et son padhek allégé
-Category: Template
-Tags: template, troll, test
-Date: 2020-08-03
-Modified: 2020-08-03
-Authors: Delmas
-Summary: La recette parfaite à faire avant un état des lieux
-
+---
+title: Nuoc-mam poelée, réduction de fish sauce et son padhek allégé
+taxonomies:
+  category:
+    - Template
+  tags:
+    - template
+    - troll
+    - test
+  authors:
+      - Delmas
+date: 2020-08-03
+updated: 2020-08-03
+summary: "La recette parfaite à faire avant un état des lieux"
+---
 Très simple, et tout le monde vous demandera quelle est ce fûmet dans votre cuisine !
 
 - *Préparation* : 10 minutes.

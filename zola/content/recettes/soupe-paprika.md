@@ -1,10 +1,16 @@
-Title: Plnenà Paprika - Soupe aux poivrons farcis
-Category: Plat
-Tags: slovaque, vege
-Date: 2020-08-10
-Modified: 2020-08-10
-Authors: Milo
-
+---
+title: Plnenà Paprika - Soupe aux poivrons farcis
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - slovaque
+    - vege
+  authors:
+      - Milo
+date: 2020-08-10
+updated: 2020-08-10
+---
 - *Préparation* : 20 minutes.
 - *Cuisson* : 15 minutes.
 

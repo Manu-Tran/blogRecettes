@@ -1,10 +1,16 @@
-Title: Soupe froide au potiron
-Category: Plat
-Tags: soupe, potiron
-Date: 2020-08-10
-Modified: 2020-08-10
-Authors: Milo
-
+---
+title: Soupe froide au potiron
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - soupe
+    - potiron
+  authors:
+      - Milo
+date: 2020-08-10
+updated: 2020-08-10
+---
 
 
 Délicieuse froide en été et chaude à l'automne. Réduire un peu les quantités d'ail et de sel pour une version chaude.

@@ -1,9 +1,15 @@
-Title: Soupe à la tomate
-Category: Plat
-Tags: vege, soupe
-Date: 2024-03-27
-Authors: Brisse
-
+---
+title: Soupe à la tomate
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - vege
+    - soupe
+  authors:
+      - Brisse
+date: 2024-03-27
+---
 # Ingrédients
 
 - 1 oignon rouge, coupé en lamelles

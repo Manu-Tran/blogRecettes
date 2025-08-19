@@ -1,9 +1,16 @@
-Title: Sweet Water Noodles
-Category: Plat
-Tags: Pates, Végé, Chinois
-Date: 2024-07-11
-Authors: Delmas
-
+---
+title: Sweet Water Noodles
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Pates
+    - Végé
+    - Chinois
+  authors:
+      - Delmas
+date: 2024-07-11
+---
 Un plat de nouilles chinoises avec une sauce salée/sucrée/aromatique qui colle bien à des nouilles épaisses, c'est super bon. (Visuels et histoire dans la source à la fin)
 Alors, ya plein de petits trucs/sauces etc. à préparer, ça fait beaucoup pour un seul plat, mais de un ça vaut le coup, et de deux ça se prépare bien en avance/se conserve bien pour que quand vous avez envie ça se fait en 5min, ish.
 Si vous avez la flemme de faire vos propres pates (c'est bien moins bon mais bien plus rapide, prenez les nouilles les plus épaisses que vous trouvez en boutique, genre udon, nouilles chinoises épaisses ou fat tagliatelles)

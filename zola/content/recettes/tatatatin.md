@@ -1,9 +1,14 @@
-Title: Tarte Tatin
-Category: Dessert
-Tags: Pommes
-Date: 2021-11-6
-Authors: Delmas
-
+---
+title: Tarte Tatin
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - Pommes
+  authors:
+      - Delmas
+date: 2021-11-6
+---
 Elle est pas mal
 
 - *Préparation* : 20 minutes.

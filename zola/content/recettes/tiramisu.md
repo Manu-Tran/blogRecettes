@@ -1,11 +1,16 @@
-Title: Tiramisu
-Category: Dessert
-Tags: gateau
-Date: 2021-01-12
-Modified: 2020-01-12
-Authors: Romain
-Summary: Un tiramisu
-
+---
+title: Tiramisu
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - gateau
+  authors:
+      - Romain
+date: 2021-01-12
+updated: 2020-01-12
+summary: "Un tiramisu"
+---
 
 D'après Benjamin, il est bon.
 

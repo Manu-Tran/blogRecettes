@@ -1,9 +1,16 @@
-Title: Escaloppes de poulet Parmesan
-Category: Plat
-Tags: Poulet, frit, italien
-Date: 2020-09-14
-Authors: Delmas
-
+---
+title: Escaloppes de poulet Parmesan
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Poulet
+    - frit
+    - italien
+  authors:
+      - Delmas
+date: 2020-09-14
+---
 Une espèce de poulet frit à la milanaise, je crois
 
 - *Préparation* : 5 minutes.

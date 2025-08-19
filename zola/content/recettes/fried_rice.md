@@ -1,9 +1,14 @@
-Title:  Fried rice du dernier moment
-Category: Plat
-Tags: riz
-Date: 2023-01-22
-Authors: Brisse
-
+---
+title: Fried rice du dernier moment
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - riz
+  authors:
+      - Brisse
+date: 2023-01-22
+---
 Vraiment un repas de la flemme. C'est faisable avec si peu et déclinable à l'infini environ. à part le riz (et encore) aucun ingrédient n'est indispensable je pense.
 
 - *Préparation* : 5min

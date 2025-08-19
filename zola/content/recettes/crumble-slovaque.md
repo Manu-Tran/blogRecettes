@@ -1,10 +1,17 @@
-Title: Crumble Slovaque
-Category: Dessert
-Tags: sucré, fruit
-Date: 2020-08-10
-Modified: 2020-08-10
-Authors: Milo, Manu
-
+---
+title: Crumble Slovaque
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - sucré
+    - fruit
+  authors:
+      - Milo
+      - Manu
+date: 2020-08-10
+updated: 2020-08-10
+---
 - *Préparation* : 20 minutes.
 - *Cuisson* : 30 minutes.
 

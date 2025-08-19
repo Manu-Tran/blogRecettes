@@ -1,9 +1,15 @@
-Title:  Spicy peanut sauce
-Category: Sauce
-Tags: Peanut butter, Spicy
-Date: 2023-01-22
-Authors: Brisse
-
+---
+title: Spicy peanut sauce
+taxonomies:
+  category:
+    - Sauce
+  tags:
+    - Peanut butter
+    - Spicy
+  authors:
+      - Brisse
+date: 2023-01-22
+---
 - *Préparation* : 2min
 - *Cuisson* : 0min
 

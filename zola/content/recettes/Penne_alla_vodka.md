@@ -1,9 +1,17 @@
-Title: Penne alla vodka
-Category: Plat
-Tags: Pates, porc, simple, sauce tomate
-Date: 2020-08-04
-Authors: Delmas
-
+---
+title: Penne alla vodka
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Pates
+    - porc
+    - simple
+    - sauce tomate
+  authors:
+      - Delmas
+date: 2020-08-04
+---
 Ok, j'avoue que ça crie "Alcoolique", mais je vous jure c'est mortel
 
 - *Préparation* : 5 minutes.

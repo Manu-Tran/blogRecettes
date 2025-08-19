@@ -1,9 +1,16 @@
-Title: Korean Fried Chicken
-Category: Plat
-Tags: Friture, poulet, pimenté
-Date: 2021-03-10
-Authors: Delmas
-
+---
+title: Korean Fried Chicken
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Friture
+    - poulet
+    - pimenté
+  authors:
+      - Delmas
+date: 2021-03-10
+---
 Dieu existe
 
 - *Préparation* : 10 minutes.

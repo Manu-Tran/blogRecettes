@@ -1,9 +1,16 @@
-Title: Tian
-Category: Plat
-Tags: Légumes, chèvre, été
-Date: 2022-08-21
-Authors: Axelle
-
+---
+title: Tian
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Légumes
+    - chèvre
+    - été
+  authors:
+      - Axelle
+date: 2022-08-21
+---
 - *Préparation* : 20 minutes.
 - *Cuisson* : 1h à 180°C
 

@@ -1,9 +1,16 @@
-Title: Cocktails de base en tout genre
-Category: Boissons
-Tags: Alcool, simple, template
-Date: 2021-07-15
-Authors: Delmas
-
+---
+title: Cocktails de base en tout genre
+taxonomies:
+  category:
+    - Boissons
+  tags:
+    - Alcool
+    - simple
+    - template
+  authors:
+      - Delmas
+date: 2021-07-15
+---
 Mes recettes les plus simples, qui ne nécéssitent pas d'alcools ou d'ingrédients trop exotiques
 
 - *Préparation* : 5 minutes.

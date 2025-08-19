@@ -1,9 +1,14 @@
-Title: Fondant au chocolat de la mort qui tue
-Category: Dessert
-Tags: Chocolat
-Date: 2020-10-13
-Authors: Delmas
-
+---
+title: Fondant au chocolat de la mort qui tue
+taxonomies:
+  category:
+    - Dessert
+  tags:
+    - Chocolat
+  authors:
+      - Delmas
+date: 2020-10-13
+---
 Résultat de longtemps de recherche. Ça, c'est ma recette de gateau au chocolat. Il y en a beaucoup comme ça, mais elle, c'est la mienne.
 
 - *Préparation* : 10 minutes.

@@ -1,10 +1,16 @@
-Title: Lasagnes
-Category: Plat
-Tags: Pates, viande
-Date: 2020-08-02
-Modified: 2020-08-03
-Authors: Delmas
-
+---
+title: Lasagnes
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Pates
+    - viande
+  authors:
+      - Delmas
+date: 2020-08-02
+updated: 2020-08-03
+---
 Un plat basique à base de pâtes et de viande, au four, fat
 
 - *Préparation* : 10 minutes.

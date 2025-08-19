@@ -1,11 +1,17 @@
-Title: Kimchi
-Category: Plat
-Tags: corréen, fermentation
-Date: 2024-02-11
-Modified: 2024-02-11
-Authors: Manu
-Summary: Un grand classique de la cuisine coréenne !
-
+---
+title: Kimchi
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - corréen
+    - fermentation
+  authors:
+      - Manu
+date: 2024-02-11
+updated: 2024-02-11
+summary: "Un grand classique de la cuisine coréenne !"
+---
 Après pas mal d'itérations, je pense commencer à converger vers une recette qui me plait vraiment beaucoup.
 
 - *Préparation* : 2 heures.

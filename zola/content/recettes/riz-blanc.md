@@ -1,10 +1,16 @@
-Title: Riz thaï
-Category: Accompagnement
-Tags: classique, asiatique
-Date: 2020-08-06
-Modified: 2020-08-06
-Authors: Manu
-
+---
+title: Riz thaï
+taxonomies:
+  category:
+    - Accompagnement
+  tags:
+    - classique
+    - asiatique
+  authors:
+      - Manu
+date: 2020-08-06
+updated: 2020-08-06
+---
 Le riz blanc thaï comme c'est préparé chez moi.
 
 - *Préparation* : 5 minutes.

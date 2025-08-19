@@ -1,11 +1,17 @@
-Title: Boeuf sauté aux oignons
-Category: Plat
-Tags: boeuf, asiatique
-Date: 2020-08-06
-Modified: 2020-08-06
-Authors: Manu
-Summary: Boeuf sauté aux oignons et au nuoc mam
-
+---
+title: Boeuf sauté aux oignons
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - boeuf
+    - asiatique
+  authors:
+      - Manu
+date: 2020-08-06
+updated: 2020-08-06
+summary: "Boeuf sauté aux oignons et au nuoc mam"
+---
 Boeuf sauté aux oignons et au nuoc mam. Un classique très simple pour les jours de flemme.
 
 

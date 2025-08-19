@@ -1,11 +1,17 @@
-Title: Frites STOCKS
-Category: Accompagnement
-Tags: gras, pommes de terre
-Date: 2020-08-10
-Modified: 2020-08-10
-Authors: Romain
-Summary: La frite STOCKS
-
+---
+title: Frites STOCKS
+taxonomies:
+  category:
+    - Accompagnement
+  tags:
+    - gras
+    - pommes de terre
+  authors:
+      - Romain
+date: 2020-08-10
+updated: 2020-08-10
+summary: "La frite STOCKS"
+---
 La frite STOCKS, grosse, grasse, croustillante et fondante
 
 - *Préparation* : 20 minutes.

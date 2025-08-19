@@ -1,9 +1,15 @@
-Title: Porc au basilic 
-Category: Plat
-Tags: Porc, Thaï
-Date: 2023-01-11
-Authors: Delmas
-
+---
+title: Porc au basilic
+taxonomies:
+  category:
+    - Plat
+  tags:
+    - Porc
+    - Thaï
+  authors:
+      - Delmas
+date: 2023-01-11
+---
 Authentiqu-ish, mais c'est bon et assez rapide à faire
 
 - *Préparation* : 10 minutes.

@@ -1,11 +1,16 @@
-Title: Poulet-Curry
-Category: Poulet
-Tags: rien
-Date: 2020-08-01
-Modified: 2020-08-03
-Authors: Manu
-Summary: Un bon template pour les futures glorieuses recettes !
-
+---
+title: Poulet-Curry
+taxonomies:
+  category:
+    - Poulet
+  tags:
+    - rien
+  authors:
+      - Manu
+date: 2020-08-01
+updated: 2020-08-03
+summary: "Un bon template pour les futures glorieuses recettes !"
+---
 
 Un bon template pour montrer les bases du markdown !
 

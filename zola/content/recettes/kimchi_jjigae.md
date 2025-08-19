@@ -1,9 +1,16 @@
-Title: Kimchi Jjigae
-Category: Template
-Tags: template, rien
-Authors: Manu
-Summary: Un bon template pour les futures glorieuses recettes !
-
+---
+title: Kimchi Jjigae
+taxonomies:
+  category:
+    - Template
+  tags:
+    - template
+    - rien
+  authors:
+      - Manu
+date: 2020-10-10
+summary: "Un bon template pour les futures glorieuses recettes !"
+---
 
 Un bon template pour montrer les bases du markdown !
 
