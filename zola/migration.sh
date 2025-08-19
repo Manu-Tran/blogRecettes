@@ -31,7 +31,7 @@ in_header {
         print "  authors:"
         for (i=1; i<=n; i++) {
             gsub(/^ +| +$/, "", authors[i])  # trim spaces
-            print "      - " authors[i]
+            print "    - " authors[i]
         }
     } else if ($1 == "Date:") {
         sub("Date:", "date:", $0)
