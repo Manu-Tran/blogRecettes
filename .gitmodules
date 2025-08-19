@@ -4,3 +4,6 @@
 [submodule "pelican/pelican-plugins"]
 	path = pelican/pelican-plugins
 	url = https://github.com/getpelican/pelican-plugins
+[submodule "zola/themes/zolastrap"]
+	path = zola/themes/zolastrap
+	url = https://github.com/marcodpt/zolastrap
