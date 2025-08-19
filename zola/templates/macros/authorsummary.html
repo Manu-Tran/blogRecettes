@@ -1,0 +1,14 @@
+{% macro render() %}
+  {% set authors = get_taxonomy(kind="authors") %}
+  {% for author_item in authors.items %}
+    {% set author = get_page(path="authors/"~author_item.name~"/index.md") %}
+    <a
+      class="text-decoration-none text-reset"
+      href="{{get_taxonomy_url(kind="authors", name=author_item.name)}}"
+      title="{{author.title}}"
+    > 
+  <b>{{ author_item.name }} : </b> {{ author_item.pages | length }}</a>
+    {% if not loop.last %}, {% endif %}
+  {% endfor %}
+  
+{% endmacro %}

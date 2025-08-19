@@ -1,0 +1,99 @@
+# The URL the site will be built for
+# base_url = "https://recettes.cgnan.fr"
+base_url = "http://127.0.0.1:1024/zolastrap/"
+# base_url = "https://marcodpt.github.io/zolastap/"
+
+default_language = "en"
+# compile_sass = true
+title = "Blog de Recettes du CGNan"
+theme = "zolastrap"
+description = "A Bootstrap theme for Zola"
+generate_feeds = false
+output_dir = "docs"
+
+taxonomies = [
+  {name = "tags", paginate_by = 5},
+  {name = "category", paginate_by = 5},
+  {name = "authors", paginate_by = 5},
+]
+
+build_search_index = true
+
+[markdown]
+highlight_code = true
+
+[extra]
+date_format = '%d/%m/%Y'
+
+theme = 'simplex'
+bg = "dark"
+inverted = false
+
+themes = "Choose a Theme"
+schemes = "Choose a Color Scheme"
+search = 'Search'
+tag = 'Recettes par Tags'
+category = 'Recettes par Categories'
+tags = 'Recettes par Tags'
+recettes = 'Recettes'
+
+links = [
+    {title = 'Recettes', url = 'recettes'},
+    {title = 'Authors', url = 'authors'},
+	  {title = 'About', url = 'about'},
+	  {title = 'Tags', url = 'tags'},
+	  {title = 'Category', url = 'category'},
+	{title = 'Github', url = 'https://github.com/Manu-Tran/blogRecettes'},
+]
+email = "emmanuel.tran@gmail.com"
+
+utterances = ""
+utterances_label = "Comments"
+utterances_theme = "github-light"
+utterances_issue_term = "pathname"
+
+# Do not change this variables
+data_themes = [
+  'default',
+  'cerulean',
+  'cosmo',
+  'cyborg',
+  'darkly',
+  'flatly',
+  'journal',
+  'litera',
+  'lumen',
+  'lux',
+  'materia',
+  'minty',
+  'morph',
+  'pulse',
+  'quartz',
+  'sandstone',
+  'simplex',
+  'sketchy',
+  'slate',
+  'solar',
+  'spacelab',
+  'superhero',
+  'united',
+  'vapor',
+  'yeti',
+  'zephyr'
+]
+data_schemes = [
+  'dark',
+  'light',
+  'primary',
+  'primary inverted',
+  'secondary',
+  'secondary inverted',
+  'success',
+  'success inverted',
+  'danger',
+  'danger inverted',
+  'warning',
+  'warning inverted',
+  'info',
+  'info inverted',
+]
