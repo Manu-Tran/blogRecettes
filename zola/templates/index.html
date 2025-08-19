@@ -85,14 +85,14 @@
   {% if section.extra.category %}
     {{header::render(text=config.extra.category)}}
     {% set category = get_taxonomy(kind="category") %}
+    <div class="content px-10">
     {% for item in category.items %}
-    <h3>
       <a
         class="text-decoration-none text-reset"
         href="{{item.permalink}}"
-      >{{item.name}}</a> {% if not loop.last %} - {% endif %} 
-    </h3>
+      >{{item.name}}</a> {% if not loop.last %} - {% endif %}
     {% endfor %}
+  </div>
   {% endif %}
   {% if section.extra.tags %}
     {{header::render(text=config.extra.tags)}}

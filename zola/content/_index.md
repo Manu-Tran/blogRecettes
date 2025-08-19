@@ -10,11 +10,11 @@ extra:
       start: 0
       end: 4
       type: default
-      title: Récente Recette
+      title: Récentes Recettes
     - section: authorsummary
       size: 4
       start: 0
-      end: 4
+      end: 100
       type: horizontal
       title: authors
 ---
